@@ -22,4 +22,4 @@
 # 
 # m h  dom mon dow   command
 
-*/5 * * * * /home/apps/serverstatus/serverstatus.py
+*/15 * * * * /home/apps/serverstatus/serverstatus.py
